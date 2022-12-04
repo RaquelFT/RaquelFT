@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🖖
 
 <!--
 **RaquelFT/RaquelFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,3 +10,7 @@ Here are some ideas to get you started:
 - 🌱 Estou apredendo Web Services
 - 💬 Me pergunte sobre desenvolvimento web, Javascript, Python, HTML e CSS
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/raquelftrajano/)
+
+![RaquelFT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaquelFT&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelFT&layout=compact)](https://github.com/RaquelFT/github-readme-stats)
