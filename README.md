@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 💬 Me pergunte sobre desenvolvimento web, Javascript, Python, HTML e CSS
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/raquelftrajano/)
 
-![RaquelFT GitHub stats](https://github-readme-stats.vercel.app/api?username=RaquelFT&show_icons=true&theme=radical)
-
 <div>
 <a href="https://github.com/RaquelFT">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelFT&layout=compact&langs_count=7&theme=dracula"/>
