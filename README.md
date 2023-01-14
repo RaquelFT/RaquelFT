@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 ![RaquelFT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaquelFT&show_icons=true&theme=dracula&count_private=true)
 
-![RaquelFT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaquelFT&show_icons=true&theme=radical)
+![RaquelFT GitHub stats](https://github-readme-stats.vercel.app/api?username=RaquelFT&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelFT&layout=compact&theme=dracula)](https://github.com/RaquelFT/github-readme-stats)
