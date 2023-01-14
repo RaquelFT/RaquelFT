@@ -12,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/raquelftrajano/)
 
 ![RaquelFT GitHub stats](https://github-readme-stats.vercel.app/api?username=RaquelFT&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelFT&layout=compact)](https://github.com/RaquelFT/github-readme-stats)
+
+<div>
+<a href="https://github.com/RaquelFT">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelFT&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelFT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
